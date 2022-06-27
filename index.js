@@ -24,4 +24,5 @@ function playSound(e) {
 // //You can also use a for loop instade of bellow code
 // keys.forEach((key) => key.addEventListener("transitionend", removeTransition));
 // keys.forEach((key) => key.set);
+
 window.addEventListener("keydown", playSound);
